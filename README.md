@@ -1,2 +1,2 @@
-# Console Semantics Editor
+# Semantics Machine Text Interface
 
